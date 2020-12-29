@@ -3,7 +3,7 @@ var spots;
 var img;
 
 function preload() {
-  img = loadImage('assets/2021.png');
+  img = loadImage('https://raw.githubusercontent.com/VerbalCPU/2021_Circle_Packing/main/assets/2021.png');
 }
 
 function setup() {
